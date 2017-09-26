@@ -3,14 +3,14 @@
 }
 
 html, body {
-	margin: 0;
+	margin: 0; width: 100%;
 }
 
-header, footer {
+header, footer { background-color: purple; color: white;font-family: 'Roboto', sans-serif; 
 
 }
 
-.centered {
+.centered {  width: 70%; margin: auto; padding: 50px; 
 
 }
 
@@ -28,34 +28,34 @@ ul {
 }
 
 ul li {
-	width: 50%;
+	width: 50%; 
 }
 
-main {
-
-}
-
-section {
+main { 
 
 }
 
-h2 {
+section { width : 60%; margin: auto; font-family: 'Roboto', sans-serif; 
 
 }
 
-h3 {
+h2 { color: purple; 
 
 }
 
-p {
+h3 { color: purple; 
 
 }
 
-.details {
+p { 
 
 }
 
-.object {
+.details { color : purple;
+
+}
+
+.object { font-weight: 700; 
 
 }
 
@@ -63,6 +63,7 @@ p {
 	content: " | ";
 }
 
-footer h2 {
+footer h2 { color: white;
+
 
 }
